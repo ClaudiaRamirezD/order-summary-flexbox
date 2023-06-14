@@ -75,7 +75,6 @@ h1 {
 .main-box {
     background-color: var(--Very-pale-blue);
     display: flex;
-    flex-wrap: wrap;
     margin: 1.8em 0;
     border-radius: 10px;
     padding: 1.1em;
